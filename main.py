@@ -122,9 +122,3 @@ def is_over(board, wins_needed = 3):
   pass
 
 
-root = tk.Tk()
-root.title('tictactoe')
-root.geometry('500x300+500+100')
-
-
-root.mainloop()
