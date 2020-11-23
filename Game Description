@@ -1,0 +1,8 @@
+Game Rules
+
+1. On a rubik's cube, each face is an empty tic-tac-toe board
+2. On your turn, you may choose to place your mark ("x" or "o") on any of the boards
+3. When you win on a board, you may choose to rotate the cube in any direction
+  3a. If your rotation breaks the winning row on any board, the win is no longer valid and the game on that board continues
+  3b. If your rotation creates a winning row on any board, the player whom the mark belongs to wins on that board
+4. The overall winner of the game is the first that gets 4 3-in-a-row (can be on the same board)
